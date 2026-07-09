@@ -7,7 +7,7 @@ Software Engineer, AI Tester, Mod Developer
 
 <div id="webaddress">
 <a href="case.hayden04@gmail.com">case.hayden04@gmail.com</a>
-| <a href="https://github.com/haydencase0/hc-portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+| <a href="https://github.com/haydencase0/hc_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
@@ -21,19 +21,23 @@ Developing websites and creating various applications for public use
 `Bachelor of Computer Engineering in Software Development | January 2026 - April 2028`
 
 Brigham Young University - Idaho
+
 Rexburg, Idaho
 
 
 `Associate of Applied Science in Software Development | September 2020 - December 2022`
 
 Metropolitan Community College
+
 Lee's Summit, Missouri
 
 
 ## Experience
 
 `AI Tester | Handshake AI`
+
 Remote
+
 October 2025 - Present
 
  - Performed tasks focused on improving AI behavior to better emulate human interaction and responses.
@@ -41,7 +45,9 @@ October 2025 - Present
  - Developed an understanding of practical and ethical applications of AI in modern society.
 
 `Missionary | The Church of Jesus Christ of Latter-day Saints`
+
 Nagoya, Japan
+
 April 2023 - September 2025
 
  - Adapted to new cultural and linguistic environments while maintaining strict discipline.
@@ -49,7 +55,9 @@ April 2023 - September 2025
  - Delivered lessons and presentations, improving communication, and cross-cultural collaboration.
 
 `Software Development Intern | DataLocker`
+
 Overland Park, Kansas
+
 May 2021 - March 2023
 
  - Developed automation scripts in Python to validate factory and password reset functions for hardware devices saving $1,000,000 a year in outsourcing costs.
@@ -59,12 +67,15 @@ May 2021 - March 2023
 ## Projects
 
 `Before We Leave Item Randomizer`
+
  - Using the Archipelago public library, I designed a mod for the game Before We Leave that randomized all research and item unlocks to bring a unique experience every time you play.
 
 `Southeastern Idaho Hike Trail Website`
+
  - Taking from the Idaho Hike Trail API, I created a website that shows a selection of those trails and displays information about each trail and links to the trail's main website.
 
 `Gym Idea Generator Webapp`
+
  - With the help of a team, we designed an app that helps people who don't know what to do at a gym with ideas for workouts of different types and lengths. There is also a companion forum page to find people with similar skillsets.
 
 
