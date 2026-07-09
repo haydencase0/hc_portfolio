@@ -34,31 +34,25 @@ Lee's Summit, Missouri
 
 ## Experience
 
-`AI Tester | Handshake AI`
+`AI Tester | Handshake AI | October 2025 - Present`
 
 Remote
-
-October 2025 - Present
 
  - Performed tasks focused on improving AI behavior to better emulate human interaction and responses.
  - Designed and refined prompts to enable AI systems to generate realistic and natural image outputs.
  - Developed an understanding of practical and ethical applications of AI in modern society.
 
-`Missionary | The Church of Jesus Christ of Latter-day Saints`
+`Missionary | The Church of Jesus Christ of Latter-day Saints | April 2023 - September 2025`
 
 Nagoya, Japan
-
-April 2023 - September 2025
 
  - Adapted to new cultural and linguistic environments while maintaining strict discipline.
  - Learned Japanese and managed scheduling, records, and progress tracking using digital tools.
  - Delivered lessons and presentations, improving communication, and cross-cultural collaboration.
 
-`Software Development Intern | DataLocker`
+`Software Development Intern | DataLocker | May 2021 - March 2023`
 
 Overland Park, Kansas
-
-May 2021 - March 2023
 
  - Developed automation scripts in Python to validate factory and password reset functions for hardware devices saving $1,000,000 a year in outsourcing costs.
  - Updated company webapp allowing more user customization through the use of JavaScript manipulation.
